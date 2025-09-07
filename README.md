@@ -1,8 +1,10 @@
 # models
 
 ### ASR (Automatic Speech Recognition)
-1. [Moonshine base](https://huggingface.co/UsefulSensors/moonshine-base)
+- [Moonshine base](https://huggingface.co/UsefulSensors/moonshine-base)
 
+### Text Embedding
+- [sentence-transformers](https://huggingface.co/sentence-transformers)
 
 ### Inference
-1. [Router](https://github.com/vllm-project/semantic-router)
+- [Router](https://github.com/vllm-project/semantic-router)
